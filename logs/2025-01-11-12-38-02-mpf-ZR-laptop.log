@@ -1,0 +1,7 @@
+2025-01-11 12:38:02,503 : INFO : root : Loading config.
+2025-01-11 12:38:02,511 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-01-11 12:38:02,511 : WARNING : ConfigProcessor : Config file in cache changed: C:\Custom-Pinball\config\config.yaml
+2025-01-11 12:38:02,511 : INFO : ConfigProcessor : Loading config from file C:\Users\zackr\myenv\lib\site-packages\mpf\mpfconfig.yaml.
+2025-01-11 12:38:02,525 : INFO : ConfigProcessor : Loading config: C:\Users\zackr\myenv\lib\site-packages\mpf\mpfconfig.yaml
+2025-01-11 12:38:02,526 : INFO : ConfigProcessor : Loading config from file C:\Custom-Pinball\config\config.yaml.
+2025-01-11 12:38:02,545 : INFO : ConfigProcessor : Loading config: C:\Custom-Pinball\config\config.yaml

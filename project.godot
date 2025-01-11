@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Custom Pinball"
-run/main_scene="res://slides/attract.tscn"
+run/main_scene="res://slides/startup.tscn"
 config/features=PackedStringArray("4.3", "Mobile")
 config/icon="res://icon.svg"
 
