@@ -1,0 +1,5 @@
+2025-01-11 12:08:51,227 : INFO : root : Loading config.
+2025-01-11 12:08:51,232 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-01-11 12:08:51,233 : INFO : ConfigProcessor : Loading config from cache: C:\Users\zackr\AppData\Local\Temp\0d11a866451559ccbc94cc0f149451f7.mpf_cache
+2025-01-11 12:08:51,348 : DEBUG : YamlMultifileConfigLoader : Loading mode attract from C:\Users\zackr\myenv\lib\site-packages\mpf\modes\attract\config\attract.yaml
+2025-01-11 12:08:51,348 : INFO : ConfigProcessor : Loading config from cache: C:\Users\zackr\AppData\Local\Temp\294925c463dc5b459b9ed31f18ba4db4.mpf_cache

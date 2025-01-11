@@ -1,0 +1,14 @@
+2025-01-11 12:05:07,969 : INFO : root : Loading config.
+2025-01-11 12:05:07,975 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-01-11 12:05:07,975 : WARNING : ConfigProcessor : Config file in cache changed: C:\Custom-Pinball\config\config.yaml
+2025-01-11 12:05:07,975 : INFO : ConfigProcessor : Loading config from file C:\Users\zackr\myenv\lib\site-packages\mpf\mpfconfig.yaml.
+2025-01-11 12:05:07,986 : INFO : ConfigProcessor : Loading config: C:\Users\zackr\myenv\lib\site-packages\mpf\mpfconfig.yaml
+2025-01-11 12:05:07,986 : INFO : ConfigProcessor : Loading config from file C:\Custom-Pinball\config\config.yaml.
+2025-01-11 12:05:08,003 : INFO : ConfigProcessor : Loading config: C:\Custom-Pinball\config\config.yaml
+2025-01-11 12:05:08,005 : INFO : ConfigProcessor : Loading config: C:\Custom-Pinball\config\config_ball_devices.yaml
+2025-01-11 12:05:08,006 : INFO : ConfigProcessor : Loading config: C:\Custom-Pinball\config\config_coils.yaml
+2025-01-11 12:05:08,007 : INFO : ConfigProcessor : Loading config: C:\Custom-Pinball\config\config_switches.yaml
+2025-01-11 12:05:08,010 : INFO : ConfigProcessor : Config file cache created: C:\Users\zackr\AppData\Local\Temp\0d11a866451559ccbc94cc0f149451f7.mpf_cache
+2025-01-11 12:05:08,126 : INFO : ConfigProcessor : Loading config from cache: C:\Users\zackr\AppData\Local\Temp\294925c463dc5b459b9ed31f18ba4db4.mpf_cache
+2025-01-11 12:05:08,127 : INFO : ConfigProcessor : Loading config from cache: C:\Users\zackr\AppData\Local\Temp\f3f38afaea8df340b072b5971b88038a.mpf_cache
+2025-01-11 12:05:08,128 : INFO : ConfigProcessor : Loading config from cache: C:\Users\zackr\AppData\Local\Temp\294925c463dc5b459b9ed31f18ba4db4.mpf_cache

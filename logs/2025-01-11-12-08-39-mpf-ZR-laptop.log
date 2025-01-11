@@ -1,0 +1,6 @@
+2025-01-11 12:08:39,770 : INFO : root : Loading config.
+2025-01-11 12:08:39,774 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-01-11 12:08:39,774 : INFO : ConfigProcessor : Loading config from cache: C:\Users\zackr\AppData\Local\Temp\0d11a866451559ccbc94cc0f149451f7.mpf_cache
+2025-01-11 12:08:39,928 : INFO : ConfigProcessor : Loading config from cache: C:\Users\zackr\AppData\Local\Temp\294925c463dc5b459b9ed31f18ba4db4.mpf_cache
+2025-01-11 12:08:39,929 : INFO : ConfigProcessor : Loading config from cache: C:\Users\zackr\AppData\Local\Temp\f3f38afaea8df340b072b5971b88038a.mpf_cache
+2025-01-11 12:08:39,929 : INFO : ConfigProcessor : Loading config from cache: C:\Users\zackr\AppData\Local\Temp\294925c463dc5b459b9ed31f18ba4db4.mpf_cache
